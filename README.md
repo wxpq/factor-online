@@ -1,2 +1,2 @@
 # factor_online
-create your factor and get image !
+create your factor and get an image !
